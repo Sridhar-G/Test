@@ -3,4 +3,4 @@ Library    OperatingSystem
 
 *** Test Cases ***
 Testing the Robot scripts
-    ${output} =   Run    cp abc.txt xyz.txt
+    ${output} =   Run    cp abc.txt 123.txt
